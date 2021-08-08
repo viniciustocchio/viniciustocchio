@@ -1,4 +1,4 @@
-### Hello there 👋  my name is Vinicius Tocchio to my to my Github!
+### Hello there 👋  my name is Vinicius Tocchio and welcome to my Github!
 
   ##
 
