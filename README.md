@@ -3,11 +3,14 @@
   ##
 
 - 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript 
 - 📫 How to reach me: vinicius.tocchio@gmail.com
 
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciustocchio&show_icons=true&theme=tokyonight&&count_private=true)](https://github.com/viniciustocchio/github-readme-stats)
+<div>
+  <a href="https://github.com/viniciustocchio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciustocchio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rviniciustocchio&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
